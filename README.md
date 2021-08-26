@@ -6,10 +6,10 @@ Rock paper scissors is a hand game usually played between two people, in which e
 
 These shapes are "rock", "paper", and "scissors".
 
-The rules are straightforward:
+    The rules are straightforward:
 
-* Rock smashes scissors.
-* Paper covers rock.
-* Scissors cut paper.
+    * Rock smashes scissors.
+    * Paper covers rock.
+    * Scissors cut paper.
 
 (Language Used : C++)
