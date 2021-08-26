@@ -11,3 +11,5 @@ The rules are straightforward:
 * Rock smashes scissors.
 * Paper covers rock.
 * Scissors cut paper.
+
+(Language Used : C++)
